@@ -1,2 +1,2 @@
 # DeepLearningProjects
-Contains code to I2DL
+Contains code to Deep Learning Projects involving Computer Vision
